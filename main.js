@@ -1,10 +1,3 @@
-async function CopyandOpen() {
-    navigator.clipboard.writeText("d291bGQgeW91IGJlIG15IHZhbGVudGluZT8/");
-    await sleep(1000)
-    window.open("https://www.rapidtables.com/web/tools/base64-decode.html", "_blank");
-}
-
-
 function hoverr() {
     let im = document.getElementById("imgs");
     let h = document.getElementById("head").innerHTML = "Would you be my valentine??";
@@ -27,9 +20,8 @@ async function yes() {
     let i = document.getElementById("imgs");
     let h = document.getElementById("head").innerHTML = "<33";
     i.src = ("./img/valentine (1).jpeg");
-    alert("soerrr?")
-    alert("bbgurl HAHAHAHA")
-    alert("anong plano sa 14?");
+    alert("Hiiiiii")
+    alert("So do you want us to go? ");
     await sleep(2500);
     i.src="./img/last.jpeg"
 }
