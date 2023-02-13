@@ -3,7 +3,7 @@
 Programatic way to ask someone to be your valentine. Goodluck!!!
 
 ## Web Preview
-![Preview]("img/2023-02-13 13-02-12.gif")
+![Web Preview GIF](https://github.com/sudo-paoo/will-you-be-my-valentine/blob/dda6d762468da46ba3ea8b01eceea44ceab6efdf/img/2023-02-13%2013-02-12.gif)
 
 ## Notes:
 1. New to web develeopment so;
