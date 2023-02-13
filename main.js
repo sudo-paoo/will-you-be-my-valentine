@@ -21,7 +21,7 @@ async function yes() {
     let h = document.getElementById("head").innerHTML = "<33";
     i.src = ("./img/valentine (1).jpeg");
     alert("Hiiiiii")
-    alert("So do you want us to go? ");
+    alert("So where do you want us to go? ");
     await sleep(2500);
     i.src="./img/last.jpeg"
 }
